@@ -8,11 +8,15 @@ _11.05.2010_
 
 ___
 
-## I live in Ufa, Russia
-## studyes at rs.app on front-end developer from 0
-## knows a some English
-## diskord: leonid_228#2958
-## email: leo.fedorovtsev@gmail.com
+ __I live in Ufa, Russia__
+
+ __studyes at rs.app on front-end developer from 0__
+
+ __knows a some English__
+
+ __diskord: leonid_228#2958__
+
+ __email: leo.fedorovtsev@gmail.com__
 
 
 
