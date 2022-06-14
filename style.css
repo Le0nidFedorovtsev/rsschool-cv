@@ -48,5 +48,8 @@ h1 {
 footer {
     background-color: rgb(184, 196, 196);
 }
+.padding {
+    padding-right: 100px;
+}
 
 
