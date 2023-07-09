@@ -1,0 +1,119 @@
+
+
+    body {
+        background-color: bisque;
+    }
+
+    h1 {
+        font-family: Verdana, Tahoma, sans-serif;
+        text-align: center;
+        color: white;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .a_in_nav {
+        color: white;
+        font-size: 34px;
+        font-family: Verdana, Tahoma, sans-serif;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .div {
+        position: relative;
+    }
+
+    nav {
+        position: absolute;
+        left: 40%;
+    }
+
+
+
+    main {
+        position: relative;
+        height: 1237.63px;
+    }
+
+    .div_in_main {
+        position: absolute;
+        left: 32.5%;
+    }
+
+    h2 {
+        font-family: Verdana, Tahoma, sans-serif;
+        text-align: center;
+        color: white;
+        font-size: 34px;
+    }
+
+    header {
+        height: 1200px;
+    }
+
+    li {
+        font-family: Verdana, Tahoma, sans-serif;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+    }
+
+    p {
+        font-family: Verdana, Tahoma, sans-serif;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+    }
+
+    .li {
+        list-style-type: none;
+    }
+
+    pre {
+        color: white;
+        font-size: 20px;
+    }
+
+    a {
+        color: white;
+        font-family: Verdana, Tahoma, sans-serif;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .dother {
+        position: relative;
+        right: 15px;
+    }
+
+    footer {
+        height: 75px;
+    }
+
+    .img {
+        width: 200px;
+        height: 75px;
+    }
+
+    .right {
+        text-align: right;
+    }
+
+    .img2 {
+        width: 75px;
+        height: 75px;
+    }
+
+    .left {
+        text-align: left;
+        position: relative;
+        bottom: 140px;
+    }
+
+    .center1 {
+        position: relative;
+        bottom: 70px;
+    }
