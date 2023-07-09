@@ -1,7 +1,7 @@
 
 
     body {
-        background-color: bisque;
+        background-color: darkolivegreen;
     }
 
     h1 {
@@ -80,8 +80,8 @@
     a {
         color: white;
         font-family: Verdana, Tahoma, sans-serif;
-        text-align: center;
         text-decoration: none;
+        text-align: center;
     }
 
     .dother {
@@ -109,11 +109,16 @@
 
     .left {
         text-align: left;
-        position: relative;
-        bottom: 140px;
+        position: absolute;
+        bottom: -1610px;
     }
 
     .center1 {
         position: relative;
         bottom: 70px;
+    }
+
+    .aaa {
+        width: 75px;
+        height: 75px;
     }
